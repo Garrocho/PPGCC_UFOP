@@ -125,3 +125,44 @@ void print_evals( Evaluation *evals, int n )
     for ( i=0 ; (i<n) ; ++i )
         printf("id: %02d major score: %03d minor score: %03d\n", evals[i].id, evals[i].major, evals[i].misc );
 }
+
+void merge_sort_com_recursao(Evaluation *evals, int n) {
+    merge_sort_ordena(evals, 0, n-1);
+}
+
+void merge_sort_ordena(Evaluation *evals, int esq, int dir) {     
+    if (esq == dir)
+        return;
+    int meio = (esq + dir) / 2;
+    merge_sort_ordena(evals, esq, meio);
+    merge_sort_ordena(evals, meio+1, dir);
+    merge_sort_intercala(evals, esq, meio, dir);
+    return;
+}
+
+/* intercala os vetores v[esq..meio] e v[meio+1..dir] */    
+void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) { 
+    int i, j, k;
+    int a_tam = meio-esq+1;
+    int b_tam = dir-meio;
+    Evaluation *a = (Evaluation*) malloc(sizeof(Evaluation) * a_tam);
+    Evaluation *b = (Evaluation*) malloc(sizeof(Evaluation) * b_tam);
+
+    for (i = 0; i < a_tam; i++)
+        a[i] = evals[i+esq];
+    for (i = 0; i < b_tam; i++)
+        b[i] = evals[i+meio+1];
+
+    for (i = 0, j = 0, k = esq; k <= dir; k++) {
+        if (i == a_tam)
+            evals[k] = b[j++];
+        else if (j == b_tam)
+            evals[k] = a[i++];
+        else if ((a[i].major < b[j].major) || ((a[i].major == b[j].major) && (a[i].misc < b[j].misc)))
+            evals[k] = b[j++];
+        else
+            evals[k] = a[i++];
+    }
+    free(a);
+    free(b);
+}
