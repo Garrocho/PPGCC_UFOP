@@ -82,3 +82,24 @@ Evaluation *generate_random_evaluations( int n )
 
     return eval;
 };
+
+void bubblesort_evaluations( Evaluation *evals, int n )
+{
+    char swapped;
+    do
+    {
+        swapped = 0;
+        int i;
+        for ( i=0 ; (i<n-1) ; i++ )
+        {
+            if ( (evals[i].major < evals[i+1].major) ||
+                 ((evals[i].major == evals[i+1].major) && (evals[i].misc < evals[i+1].misc)) )
+            {
+                Evaluation aux = evals[i];
+                evals[i] = evals[i+1];
+                evals[i+1] = aux;
+                swapped = 1;
+            }
+        }
+    } while (swapped);
+}
