@@ -166,3 +166,20 @@ void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) {
     free(a);
     free(b);
 }
+
+/* ordena o vetor v[0..n-1] - MergeSort Sem Recursao */    
+void merge_sort_sem_recursao(Evaluation *evals, int n) {
+    int esq, dir;
+    int salto = 1;
+    while (salto < n) {
+        esq = 0;
+        while (esq + salto < n) {
+            dir = esq + 2*salto;
+            if (dir > n)
+                dir = n;
+            merge_sort_intercala(evals, esq, esq+salto-1, dir-1);
+            esq = esq + 2*salto;
+        }
+        salto = 2*salto;
+    }
+}
