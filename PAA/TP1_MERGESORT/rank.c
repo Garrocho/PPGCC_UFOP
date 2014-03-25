@@ -65,3 +65,20 @@ int main( int argc, const char **argv )
 
     return EXIT_SUCCESS;
 }
+
+Evaluation *generate_random_evaluations( int n )
+{
+    Evaluation *eval = malloc( sizeof(Evaluation)*n );
+
+    assert( eval != NULL );
+
+    int i;
+    for ( i=0 ; (i<n) ; ++i )
+    {
+        eval[i].id = i+1;
+        eval[i].major = rand()%100;
+        eval[i].misc = rand()%100;
+    }
+
+    return eval;
+};
