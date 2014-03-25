@@ -5,13 +5,11 @@
 
 typedef struct
 {
-    int id; /* unique identifier of the candidate */
-    /* there are two different scores,  sorting should be done in lexicographic order (major, minor) */
-    int major; /* score in major subjects */
-    int misc; /* score in miscellaneous subjects, used only to break ties */
+    int id;
+    int major;
+    int misc;
 } Evaluation;
 
-/* generates randonly a vector with n evaluations */
 Evaluation *generate_random_evaluations( int n );
 
 void bubblesort_evaluations( Evaluation *evals, int n );
@@ -41,10 +39,7 @@ int main( int argc, const char **argv )
     printf("generating %d random evaluations.\n", n); fflush(stdout);
     Evaluation *evals = generate_random_evaluations( n );
 
-
-    clock_t start = clock(); /* measuring CPU time with clock() :
-                                precise but gives overflow if processing time is very large (many hours) */
-
+    clock_t start = clock();
     printf("sorting ... " ); fflush(stdout);
 
     merge_sort_sem_recursao(evals, n);
@@ -53,11 +48,9 @@ int main( int argc, const char **argv )
     double cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
     printf("done in %.3f.\n", cpuTime ); fflush(stdout);
 
-
     printf("checking result.\n" ); fflush(stdout);
     check_sorting( evals, n );
 
-    /* printing only if the output is not too large */
     if (n<200)
         print_evals( evals, n );
 
@@ -69,7 +62,6 @@ int main( int argc, const char **argv )
 Evaluation *generate_random_evaluations( int n )
 {
     Evaluation *eval = malloc( sizeof(Evaluation)*n );
-
     assert( eval != NULL );
 
     int i;
@@ -79,7 +71,6 @@ Evaluation *generate_random_evaluations( int n )
         eval[i].major = rand()%100;
         eval[i].misc = rand()%100;
     }
-
     return eval;
 };
 
@@ -140,7 +131,6 @@ void merge_sort_ordena(Evaluation *evals, int esq, int dir) {
     return;
 }
 
-/* intercala os vetores v[esq..meio] e v[meio+1..dir] */    
 void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) { 
     int i, j, k;
     int a_tam = meio-esq+1;
@@ -167,7 +157,6 @@ void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) {
     free(b);
 }
 
-/* ordena o vetor v[0..n-1] - MergeSort Sem Recursao */    
 void merge_sort_sem_recursao(Evaluation *evals, int n) {
     int esq, dir;
     int salto = 1;
