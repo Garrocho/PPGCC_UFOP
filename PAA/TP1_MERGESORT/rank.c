@@ -27,3 +27,41 @@ void merge_sort_intercala( Evaluation *evals, int esq, int meio, int dir );
 void check_sorting( Evaluation *evals, int n );
 
 void print_evals( Evaluation *evals, int n );
+
+int main( int argc, const char **argv )
+{
+    if (argc<2)
+    {
+        fprintf( stderr, "usage: \n\trank n" );
+        exit(EXIT_FAILURE);
+    }
+
+    int n = atoi(argv[1]);
+
+    printf("generating %d random evaluations.\n", n); fflush(stdout);
+    Evaluation *evals = generate_random_evaluations( n );
+
+
+    clock_t start = clock(); /* measuring CPU time with clock() :
+                                precise but gives overflow if processing time is very large (many hours) */
+
+    printf("sorting ... " ); fflush(stdout);
+
+    merge_sort_sem_recursao(evals, n);
+
+    clock_t end = clock();
+    double cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
+    printf("done in %.3f.\n", cpuTime ); fflush(stdout);
+
+
+    printf("checking result.\n" ); fflush(stdout);
+    check_sorting( evals, n );
+
+    /* printing only if the output is not too large */
+    if (n<200)
+        print_evals( evals, n );
+
+    free( evals );
+
+    return EXIT_SUCCESS;
+}
