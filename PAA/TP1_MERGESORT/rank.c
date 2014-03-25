@@ -103,3 +103,25 @@ void bubblesort_evaluations( Evaluation *evals, int n )
         }
     } while (swapped);
 }
+
+void check_sorting( Evaluation *evals, int n )
+{
+    int i;
+    for ( i=0 ; (i<n-1) ; ++i )
+    {
+        if ( (evals[i].major < evals[i+1].major) ||
+             ((evals[i].major == evals[i+1].major) && (evals[i].misc < evals[i+1].misc)) )
+        {
+            printf("%d, %d\n", evals[i].major, evals[i+1].major);
+            fprintf( stderr, "error: elements %d and %d are not properly ordered!\n", i, i+1 );
+            exit( EXIT_FAILURE );
+        }
+    }
+}
+
+void print_evals( Evaluation *evals, int n )
+{
+    int i;
+    for ( i=0 ; (i<n) ; ++i )
+        printf("id: %02d major score: %03d minor score: %03d\n", evals[i].id, evals[i].major, evals[i].misc );
+}
