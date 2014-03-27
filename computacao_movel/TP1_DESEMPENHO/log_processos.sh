@@ -5,6 +5,6 @@ if [ "$1" = "" ]; then
 fi
 
 if [ "$1" != "" ]; then
-   ps aux | grep chrome | sed '2,$ d' | awk '{print $3,";",$4}'
+   echo "CPU e MEM do Processo $1"
+   ps aux | grep chrome | awk '{print $3,";",$4}'
 fi
-#ps aux | grep chrome | sed '2,$ d' | awk '{print $3,";",$4}'
