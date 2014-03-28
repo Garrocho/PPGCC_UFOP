@@ -121,7 +121,7 @@ void merge_sort_com_recursao(Evaluation *evals, int n) {
     merge_sort_ordena(evals, 0, n-1);
 }
 
-void merge_sort_ordena(Evaluation *evals, int esq, int dir) {     
+void merge_sort_ordena( Evaluation *evals, int esq, int dir ) {     
     if (esq == dir)
         return;
     int meio = (esq + dir) / 2;
@@ -131,7 +131,7 @@ void merge_sort_ordena(Evaluation *evals, int esq, int dir) {
     return;
 }
 
-void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) { 
+void merge_sort_intercala( Evaluation *evals, int esq, int meio, int dir ) { 
     int i, j, k;
     int a_tam = meio-esq+1;
     int b_tam = dir-meio;
@@ -157,7 +157,7 @@ void merge_sort_intercala(Evaluation *evals, int esq, int meio, int dir) {
     free(b);
 }
 
-void merge_sort_sem_recursao(Evaluation *evals, int n) {
+void merge_sort_sem_recursao( Evaluation *evals, int n ) {
     int esq, dir;
     int salto = 1;
     while (salto < n) {
