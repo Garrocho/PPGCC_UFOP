@@ -42,10 +42,11 @@ int main( int argc, const char **argv )
     clock_t start = clock();
     printf("sorting ... " ); fflush(stdout);
 
-    merge_sort_sem_recursao(evals, n);
+    merge_sort_com_recursao(evals, n);
 
     clock_t end = clock();
     double cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
+    printf("Tempo: %f\n", cpuTime);
     printf("done in %.3f.\n", cpuTime ); fflush(stdout);
 
     printf("checking result.\n" ); fflush(stdout);
