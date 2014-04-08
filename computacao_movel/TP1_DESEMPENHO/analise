@@ -1,0 +1,138 @@
+#!/usr/bin/env python
+# coding: utf-8
+import sys
+import time
+import psutil
+
+
+def analisa_argumentos():
+	if len(sys.argv) >= 4:
+		argumentos = []
+		if sys.argv[1] == '-pid':
+			try:
+				argv_int = int(sys.argv[2])
+				argumentos.append(argv_int)
+			except:
+				pass
+		if sys.argv[3] == '-i':
+			try:
+				argv_int = int(sys.argv[4])
+				argumentos.append(argv_int)
+			except:
+				pass
+		if sys.argv[5] == '-d':
+			try:
+				argv_int = int(sys.argv[6])
+				argumentos.append(argv_int)
+			except:
+				pass		
+		if len(argumentos) == 3:
+			return argumentos
+	print 'Argumentos Inválidos...\nUtilize: ./analise.py -pid <id_do_processo> -i <intervalo> -d <duracao>'
+	print '<id_do_processo> é pid de um processo.\n<i> é o intervalo de tempo para analise.\n<d> é a duração da análise.'
+	sys.exit(0)
+
+
+def obter_nome_processo(pid):
+	try:
+		processo = psutil.Process(pid)
+	except:
+		print 'Processo', pid, 'não encontrado.'
+		sys.exit(0)
+	return processo.name()
+
+
+def obter_cpu_e_mem_atual(pid):
+	try:
+		processo = psutil.Process(pid)
+	except:
+		print 'Processo', pid, 'não encontrado.'
+		sys.exit(0)
+	if processo.is_running():
+		try:
+			por_cpu = processo.cpu_percent(interval=1.0)
+			por_mem = processo.memory_percent()
+			io_counters = processo.io_counters()
+			return [por_cpu, por_mem, io_counters[2], io_counters[3]]
+		except:
+			print 'Permissões Negadas. Execute SUDO para analisar esse processo.'
+			sys.exit(0)
+	print 'O processo', pid, 'parou de executar.'
+	return None
+
+
+def processa_lista_cpu_mem(lista):
+	soma_cpu = 0
+	soma_mem = 0
+	soma_leitura = 0
+	soma_escrita = 0
+	tam_lista = len(lista)
+	for i in lista:
+		soma_cpu += i[0]
+		soma_mem += i[1]
+		soma_leitura += i[2]
+		soma_escrita += i[3]
+	media_cpu = soma_cpu/tam_lista
+	media_mem = soma_mem/tam_lista
+	media_read = soma_leitura/tam_lista
+	media_write = soma_escrita/tam_lista
+	print 'CPU: %.2f %s\nMEMÓRIA: %.2f %s' % (media_cpu, '%', media_mem, '%')
+	print 'IO READ: %.2f %s\nIO WRITE: %.2f %s' % (media_read, 'bytes', media_write, 'bytes')
+	return media_cpu, media_mem, media_read, media_write
+
+
+def grava_resultado(lista, medias):
+	arq = open('resultado.txt', 'w')
+	lista_cpu = []
+	lista_mem = []
+	lista_read = []
+	lista_write = []
+	for i in lista:
+		lista_cpu.append(str(i[0]))
+		lista_mem.append(str(i[1]))
+		lista_read.append(str(i[2]))
+		lista_write.append(str(i[3]))
+
+	arq.write('UTILIZACAO DE CPU - MEDIA: {0}\n'.format(medias[0]))
+	for i in lista_cpu:
+		arq.write(i + ' ')
+
+	arq.write('\n\nUTILIZACAO DE MEMORIA - MEDIA: {0}\n'.format(medias[1]))
+	for i in lista_mem:
+		arq.write(i + ' ')
+
+	arq.write('\n\nUTILIZACAO DE IO READ - MEDIA: {0}\n'.format(medias[2]))
+	for i in lista_read:
+		arq.write(i + ' ')
+
+	arq.write('\n\nUTILIZACAO DE IO WRITE - MEDIA: {0}\n'.format(medias[3]))
+	for i in lista_write:
+		arq.write(i + ' ')
+
+	arq.close()
+
+
+if __name__ == '__main__':
+	pid, intervalo, duracao = analisa_argumentos()
+	lista_cpu_mem = []
+	nome_processo = obter_nome_processo(pid)
+	print 'Analisando o %s...' % nome_processo
+
+	if duracao == -1:
+		while True:
+			cpu_e_mem = obter_cpu_e_mem_atual(pid)
+			if cpu_e_mem == None:
+				break
+			else:
+				lista_cpu_mem.append(cpu_e_mem)
+			time.sleep(intervalo)
+	else:
+		for i in range(duracao):
+			cpu_e_mem = obter_cpu_e_mem_atual(pid)
+			if cpu_e_mem == None:
+				break
+			else:
+				lista_cpu_mem.append(cpu_e_mem)
+			time.sleep(intervalo)
+	medias = processa_lista_cpu_mem(lista_cpu_mem)
+	grava_resultado(lista_cpu_mem, medias)
