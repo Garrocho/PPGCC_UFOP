@@ -33,32 +33,30 @@ def analisa_argumentos():
 	sys.exit(0)
 
 
-def obter_nome_processo(pid):
-	try:
-		processo = psutil.Process(pid)
-	except:
-		print 'Processo', pid, 'não encontrado.'
-		sys.exit(0)
-	return processo.name()
-
-
 def obter_cpu_e_mem_atual(pid):
 	try:
 		processo = psutil.Process(pid)
+		if processo.is_running():
+			try:
+				por_cpu = processo.cpu_percent(interval=1.0)
+				por_mem = processo.memory_percent()
+				io_counters = processo.io_counters()
+				return [por_cpu, por_mem, io_counters[2], io_counters[3]]
+			except:
+				print 'Permissões Negadas. Execute SUDO para analisar esse processo.'
+				return None
 	except:
-		print 'Processo', pid, 'não encontrado.'
-		sys.exit(0)
-	if processo.is_running():
-		try:
-			por_cpu = processo.cpu_percent(interval=1.0)
-			por_mem = processo.memory_percent()
-			io_counters = processo.io_counters()
-			return [por_cpu, por_mem, io_counters[2], io_counters[3]]
-		except:
-			print 'Permissões Negadas. Execute SUDO para analisar esse processo.'
-			sys.exit(0)
+		return None
 	print 'O processo', pid, 'parou de executar.'
 	return None
+
+
+def obter_pid_por_nome(nome):
+	for i in psutil.process_iter():
+		if nome in i.name():
+			print i.name(), i.cmdline()
+		elif nome in i.cmdline():
+			print i, i.cmdline()
 
 
 def processa_lista_cpu_mem(lista):
@@ -110,6 +108,15 @@ def grava_resultado(lista, medias):
 		arq.write(i + ' ')
 
 	arq.close()
+
+
+def obter_nome_processo(pid):
+	try:
+		processo = psutil.Process(pid)
+	except:
+		print 'Processo', pid, 'não encontrado.'
+		sys.exit(0)
+	return processo.name()
 
 
 if __name__ == '__main__':
