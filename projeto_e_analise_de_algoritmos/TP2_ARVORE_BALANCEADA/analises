@@ -1,0 +1,9 @@
+GPROF
+gcc arquivo.c arvore_avl.c util.c main.c -ansi -Wall -pg
+
+./a.out
+
+gprof a.out gmon.out > analise_gprof.txt
+
+VALGRIND
+valgrind -v --tool=memcheck --leak-check=full ./a.out
