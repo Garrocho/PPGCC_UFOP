@@ -1,0 +1,278 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 94.15     12.59    12.59  1087542     0.01     0.01  altura
+  3.56     13.06     0.48   543771     0.00     0.02  FB
+  1.05     13.20     0.14 18632460     0.00     0.00  heapear_subindo
+  0.37     13.25     0.05 18638892     0.00     0.00  heap_pai
+  0.37     13.30     0.05     6105     0.01     0.04  arranjar_insercao
+  0.22     13.33     0.03                             main
+  0.15     13.35     0.02        1    20.02    20.02  destruir_heap
+  0.07     13.36     0.01   540878     0.00     0.02  balanceamento
+  0.07     13.37     0.01    62152     0.00     0.21  insere_avl
+  0.07     13.38     0.01    39502     0.00     0.00  heap_trocar
+  0.00     13.38     0.00    39175     0.00     0.00  filho_esquerda
+  0.00     13.38     0.00     6105     0.00     0.04  heap_inserir
+  0.00     13.38     0.00     6105     0.00     0.00  heapear_descendo
+  0.00     13.38     0.00     6105     0.00     0.00  remover_maior
+  0.00     13.38     0.00     2149     0.00     0.00  RSE
+  0.00     13.38     0.00     2141     0.00     0.00  RSD
+  0.00     13.38     0.00     1468     0.00     0.02  balanca_direita
+  0.00     13.38     0.00     1425     0.00     0.02  balanca_esquerda
+  0.00     13.38     0.00        1     0.00   241.87  avl_para_heap
+  0.00     13.38     0.00        1     0.00     0.00  cria_arquivo_avl
+  0.00     13.38     0.00        1     0.00     0.00  cria_registro
+  0.00     13.38     0.00        1     0.00     0.00  destruir_avl
+  0.00     13.38     0.00        1     0.00     0.00  inicializar_heap
+  0.00     13.38     0.00        1     0.00     0.00  tamanho_avl
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+ 
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this 
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 2 byte(s) for 0.07% of 13.38 seconds
+
+index % time    self  children    called     name
+                                                 <spontaneous>
+[1]    100.0    0.03   13.35                 main [1]
+                0.01   13.07   62152/62152       insere_avl [2]
+                0.00    0.24       1/1           avl_para_heap [8]
+                0.02    0.00       1/1           destruir_heap [13]
+                0.00    0.01    6105/6105        remover_maior [16]
+                0.00    0.00       1/1           cria_registro [21]
+                0.00    0.00       1/1           cria_arquivo_avl [20]
+                0.00    0.00       1/1           tamanho_avl [24]
+                0.00    0.00       1/1           inicializar_heap [23]
+                0.00    0.00       1/1           destruir_avl [22]
+-----------------------------------------------
+                              540878             insere_avl [2]
+                0.01   13.07   62152/62152       main [1]
+[2]     97.8    0.01   13.07   62152+540878  insere_avl [2]
+                0.01   13.06  540878/540878      balanceamento [3]
+                              540878             insere_avl [2]
+-----------------------------------------------
+                0.01   13.06  540878/540878      insere_avl [2]
+[3]     97.7    0.01   13.06  540878         balanceamento [3]
+                0.47   12.52  540878/543771      FB [4]
+                0.00    0.04    1468/1468        balanca_direita [11]
+                0.00    0.03    1425/1425        balanca_esquerda [12]
+-----------------------------------------------
+                0.00    0.03    1425/543771      balanca_esquerda [12]
+                0.00    0.03    1468/543771      balanca_direita [11]
+                0.47   12.52  540878/543771      balanceamento [3]
+[4]     97.6    0.48   12.59  543771         FB [4]
+               12.59    0.00 1087542/1087542     altura [5]
+-----------------------------------------------
+                             960738778             altura [5]
+               12.59    0.00 1087542/1087542     FB [4]
+[5]     94.1   12.59    0.00 1087542+960738778 altura [5]
+                             960738778             altura [5]
+-----------------------------------------------
+                0.05    0.19    6105/6105        heap_inserir [7]
+[6]      1.8    0.05    0.19    6105         arranjar_insercao [6]
+                0.14    0.05 18632460/18632460     heapear_subindo [9]
+-----------------------------------------------
+                0.00    0.24    6105/6105        avl_para_heap [8]
+[7]      1.8    0.00    0.24    6105         heap_inserir [7]
+                0.05    0.19    6105/6105        arranjar_insercao [6]
+-----------------------------------------------
+                               12210             avl_para_heap [8]
+                0.00    0.24       1/1           main [1]
+[8]      1.8    0.00    0.24       1+12210   avl_para_heap [8]
+                0.00    0.24    6105/6105        heap_inserir [7]
+                               12210             avl_para_heap [8]
+-----------------------------------------------
+                                6432             heapear_subindo [9]
+                0.14    0.05 18632460/18632460     arranjar_insercao [6]
+[9]      1.4    0.14    0.05 18632460+6432    heapear_subindo [9]
+                0.05    0.00 18638892/18638892     heap_pai [10]
+                0.00    0.00    6432/39502       heap_trocar [14]
+                                6432             heapear_subindo [9]
+-----------------------------------------------
+                0.05    0.00 18638892/18638892     heapear_subindo [9]
+[10]     0.4    0.05    0.00 18638892         heap_pai [10]
+-----------------------------------------------
+                0.00    0.04    1468/1468        balanceamento [3]
+[11]     0.3    0.00    0.04    1468         balanca_direita [11]
+                0.00    0.03    1468/543771      FB [4]
+                0.00    0.00    1468/2149        RSE [18]
+                0.00    0.00     716/2141        RSD [19]
+-----------------------------------------------
+                0.00    0.03    1425/1425        balanceamento [3]
+[12]     0.3    0.00    0.03    1425         balanca_esquerda [12]
+                0.00    0.03    1425/543771      FB [4]
+                0.00    0.00    1425/2141        RSD [19]
+                0.00    0.00     681/2149        RSE [18]
+-----------------------------------------------
+                0.02    0.00       1/1           main [1]
+[13]     0.1    0.02    0.00       1         destruir_heap [13]
+-----------------------------------------------
+                0.00    0.00    6432/39502       heapear_subindo [9]
+                0.01    0.00   33070/39502       heapear_descendo [15]
+[14]     0.1    0.01    0.00   39502         heap_trocar [14]
+-----------------------------------------------
+                               33070             heapear_descendo [15]
+                0.00    0.01    6105/6105        remover_maior [16]
+[15]     0.1    0.00    0.01    6105+33070   heapear_descendo [15]
+                0.01    0.00   33070/39502       heap_trocar [14]
+                0.00    0.00   39175/39175       filho_esquerda [17]
+                               33070             heapear_descendo [15]
+-----------------------------------------------
+                0.00    0.01    6105/6105        main [1]
+[16]     0.1    0.00    0.01    6105         remover_maior [16]
+                0.00    0.01    6105/6105        heapear_descendo [15]
+-----------------------------------------------
+                0.00    0.00   39175/39175       heapear_descendo [15]
+[17]     0.0    0.00    0.00   39175         filho_esquerda [17]
+-----------------------------------------------
+                0.00    0.00     681/2149        balanca_esquerda [12]
+                0.00    0.00    1468/2149        balanca_direita [11]
+[18]     0.0    0.00    0.00    2149         RSE [18]
+-----------------------------------------------
+                0.00    0.00     716/2141        balanca_direita [11]
+                0.00    0.00    1425/2141        balanca_esquerda [12]
+[19]     0.0    0.00    0.00    2141         RSD [19]
+-----------------------------------------------
+                               12210             cria_arquivo_avl [20]
+                0.00    0.00       1/1           main [1]
+[20]     0.0    0.00    0.00       1+12210   cria_arquivo_avl [20]
+                               12210             cria_arquivo_avl [20]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[21]     0.0    0.00    0.00       1         cria_registro [21]
+-----------------------------------------------
+                               12210             destruir_avl [22]
+                0.00    0.00       1/1           main [1]
+[22]     0.0    0.00    0.00       1+12210   destruir_avl [22]
+                               12210             destruir_avl [22]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[23]     0.0    0.00    0.00       1         inicializar_heap [23]
+-----------------------------------------------
+                               12210             tamanho_avl [24]
+                0.00    0.00       1/1           main [1]
+[24]     0.0    0.00    0.00       1+12210   tamanho_avl [24]
+                               12210             tamanho_avl [24]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+
+Index by function name
+
+   [4] FB                      [3] balanceamento          [14] heap_trocar
+  [19] RSD                    [20] cria_arquivo_avl       [15] heapear_descendo
+  [18] RSE                    [21] cria_registro           [9] heapear_subindo
+   [5] altura                 [22] destruir_avl           [23] inicializar_heap
+   [6] arranjar_insercao      [13] destruir_heap           [2] insere_avl
+   [8] avl_para_heap          [17] filho_esquerda          [1] main
+  [11] balanca_direita         [7] heap_inserir           [16] remover_maior
+  [12] balanca_esquerda       [10] heap_pai               [24] tamanho_avl
