@@ -1,0 +1,2450 @@
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 2	Custo: 6	Caminho: 2 <- 48 <- 1
+Origem: 1	Destino: 3	Custo: 6	Caminho: 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 4	Custo: 7	Caminho: 4 <- 44 <- 1
+Origem: 1	Destino: 5	Custo: 12	Caminho: 5 <- 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 6	Custo: 8	Caminho: 6 <- 26 <- 8 <- 1
+Origem: 1	Destino: 7	Custo: 2	Caminho: 7 <- 48 <- 1
+Origem: 1	Destino: 8	Custo: 5	Caminho: 8 <- 1
+Origem: 1	Destino: 9	Custo: 9	Caminho: 9 <- 8 <- 1
+Origem: 1	Destino: 10	Custo: 10	Caminho: 10 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 11	Custo: 8	Caminho: 11 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 12	Custo: 9	Caminho: 12 <- 48 <- 1
+Origem: 1	Destino: 13	Custo: 11	Caminho: 13 <- 3 <- 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 14	Custo: 5	Caminho: 14 <- 48 <- 1
+Origem: 1	Destino: 15	Custo: 10	Caminho: 15 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 16	Custo: 6	Caminho: 16 <- 48 <- 1
+Origem: 1	Destino: 17	Custo: 10	Caminho: 17 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 18	Custo: 13	Caminho: 18 <- 50 <- 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 19	Custo: 10	Caminho: 19 <- 34 <- 48 <- 1
+Origem: 1	Destino: 20	Custo: 10	Caminho: 20 <- 12 <- 48 <- 1
+Origem: 1	Destino: 21	Custo: 5	Caminho: 21 <- 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 22	Custo: 8	Caminho: 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 23	Custo: 5	Caminho: 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 24	Custo: 4	Caminho: 24 <- 48 <- 1
+Origem: 1	Destino: 25	Custo: 3	Caminho: 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 26	Custo: 6	Caminho: 26 <- 8 <- 1
+Origem: 1	Destino: 27	Custo: 6	Caminho: 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 28	Custo: 4	Caminho: 28 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 29	Custo: 8	Caminho: 29 <- 23 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 30	Custo: 6	Caminho: 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 31	Custo: 11	Caminho: 31 <- 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 32	Custo: 5	Caminho: 32 <- 7 <- 48 <- 1
+Origem: 1	Destino: 33	Custo: 5	Caminho: 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 34	Custo: 4	Caminho: 34 <- 48 <- 1
+Origem: 1	Destino: 35	Custo: 12	Caminho: 35 <- 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 36	Custo: 14	Caminho: 36 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 37	Custo: 11	Caminho: 37 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 38	Custo: 7	Caminho: 38 <- 26 <- 8 <- 1
+Origem: 1	Destino: 39	Custo: 4	Caminho: 39 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 40	Custo: 13	Caminho: 40 <- 27 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 41	Custo: 8	Caminho: 41 <- 1
+Origem: 1	Destino: 42	Custo: 4	Caminho: 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 43	Custo: 9	Caminho: 43 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 44	Custo: 6	Caminho: 44 <- 1
+Origem: 1	Destino: 45	Custo: 9	Caminho: 45 <- 22 <- 26 <- 8 <- 1
+Origem: 1	Destino: 46	Custo: 7	Caminho: 46 <- 30 <- 33 <- 34 <- 48 <- 1
+Origem: 1	Destino: 47	Custo: 11	Caminho: 47 <- 26 <- 8 <- 1
+Origem: 1	Destino: 48	Custo: 1	Caminho: 48 <- 1
+Origem: 1	Destino: 49	Custo: 7	Caminho: 49 <- 42 <- 25 <- 7 <- 48 <- 1
+Origem: 1	Destino: 50	Custo: 8	Caminho: 50 <- 38 <- 26 <- 8 <- 1
