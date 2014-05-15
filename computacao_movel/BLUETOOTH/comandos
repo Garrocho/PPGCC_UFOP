@@ -1,0 +1,2 @@
+gcc cgblue.c -lobexftp -lbluetooth
+
