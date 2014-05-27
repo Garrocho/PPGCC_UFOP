@@ -2,8 +2,8 @@
 
 #define max(a,b) (a > b ? a : b)
 
-int matrix[100][100] = {0};
-int picks[100][100] = {0};
+int matrix[400][400] = {0};
+int picks[400][400] = {0};
 
 int knapsack(int nItems, int size, int weights[], int values[]){
     int i,j;

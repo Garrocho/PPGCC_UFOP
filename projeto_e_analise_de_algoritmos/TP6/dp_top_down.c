@@ -1,10 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 #define max(a,b) (a > b ? a : b)
 
-int matrix[100][100] = {0};
-int picks[100][100] = {0};
-
-int knapsack(int index, int size, int weights[],int values[]){
+int knapsack(int index, int size, int *weights, int *values, int **matrix, int **picks){
     int take,dontTake;
 
     take = dontTake = 0;
@@ -26,9 +25,9 @@ int knapsack(int index, int size, int weights[],int values[]){
     }
 
     if (weights[index]<=size)
-        take = values[index] + knapsack(index-1, size-weights[index], weights, values);
+        take = values[index] + knapsack(index-1, size-weights[index], weights, values, matrix, picks);
 
-    dontTake = knapsack(index-1, size, weights, values);
+    dontTake = knapsack(index-1, size, weights, values, matrix, picks);
 
     matrix[index][size] = max (take, dontTake);
 
@@ -41,7 +40,7 @@ int knapsack(int index, int size, int weights[],int values[]){
 
 }
 
-void printPicks(int item, int size, int weights[]){
+void printPicks(int item, int size, int *weights, int **picks){
 
     while (item>=0){
         if (picks[item][size]==1){
@@ -54,9 +53,8 @@ void printPicks(int item, int size, int weights[]){
         }
     }
 
-    printf("n");
-
-return;
+    printf("\n");
+    return;
 }
 
 int main(int argc, char * argv[])
@@ -77,34 +75,36 @@ int main(int argc, char * argv[])
       return 2;
     }
 
-    // First line of data is item count, knapsack capacity
     int n, W;
     fscanf(fp, "%d", &n);
     fscanf(fp, "%d", &W);
 
-    // Make arrays of weights and values
-    int vals[n], wts[n], i = 0, j = 0, index = 0;
-    while (!feof (fp) && index < n)
-        {
-          fscanf(fp, "%d", &j);
-          wts[index++] = j;
-          //index++;
-        }
-        //int k=0;
-        printf("passei\n");
-        index = 0;
-        while (!feof (fp) && index < n)
-        {
-          fscanf(fp, "%d", &i);
-          vals[index++] = i;
-          //index++;
-        }
+    int vals[n], wts[n], **matrix, **picks;
+    int i = 0, j = 0, index = 0;
+
+    matrix = (int**)calloc(n, sizeof(int*));
+    picks = (int**)calloc(n, sizeof(int*));
+
+    for (i=0; i < n; i++) {
+        matrix[i] = (int*)calloc(n, sizeof(int));
+        picks[i] = (int*)calloc(n, sizeof(int));
+        printf("%d %d\n", matrix[i][0], picks[i][0]);
+    }
+
+    while (!feof (fp) && index < n) {
+        fscanf(fp, "%d", &j);
+        wts[index++] = j;
+    }
+    index = 0;
+    while (!feof (fp) && index < n) {
+        fscanf(fp, "%d", &i);
+        vals[index++] = i;
+    }
     fclose(fp);
 
-    printf("Max value = %dnn",knapsack(n-1, W, wts, vals));
-
-    printf("Picks were: ");
-    printPicks(n-1, W, wts);
+    printf("Lucro Otimo = %d\n", knapsack(n-1, W, wts, vals, matrix, picks));
+    printf("Selecionados = ");
+    printPicks(n-1, W, wts, picks);
     
   }
     return 0;
