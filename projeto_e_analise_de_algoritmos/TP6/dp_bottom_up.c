@@ -71,22 +71,33 @@ int main(int argc, char * argv[])
 
     // Make arrays of weights and values
     int vals[n], wts[n], i = 0, j = 0, index = 0;
-    while (!feof (fp) && index < n)
+    while (!feof (fp) && index < n/2)
     {
-      fscanf(fp, "%d", &i);
       fscanf(fp, "%d", &j);
-      vals[index] = i;
       wts[index] = j;
       index++;
     }
+    int k=0;
+    printf("passei\n");
+    while (!feof (fp) && index < n)
+        {
+          fscanf(fp, "%d", &j);
+          wts[index++] = j;
+          //index++;
+        }
+        //int k=0;
+        printf("passei\n");
+        index = 0;
+        while (!feof (fp) && index < n)
+        {
+          fscanf(fp, "%d", &i);
+          vals[index++] = i;
+          //index++;
+        }
+    printf("passei\n");
     fclose(fp);
 
-    //int nItems = 4;
-    //int knapsackSize = 10;
-    //int weights[4] = {5,4,6,3};
-    //int values[4] = {10,40,30,50};
-
-    printf("Max value = %dnn",knapsack(n-1, W, wts, vals));
+    printf("Max value = %d",knapsack(n-1, W, wts, vals));
 
     printf("Picks were: ");
     printPicks(n-1, W, wts);
