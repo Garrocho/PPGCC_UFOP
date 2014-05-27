@@ -17,17 +17,53 @@ int kmax(int n, int W, int K[n+1][W+1]);
 // traceback to determine which items were taken
 void traceback(int n, int W, int K[n+1][W+1], char taken[], int wts[]);
 
+int knapsack_01(int w[], int v[], int N, int W){
+ 
+  int table[N+1][W+1];
+  int i, j;
+ 
+  for(i=0;i<=N; i++){
+     for(j=0; j<=W; j++){
+        table[i][j]=0;
+     }
+  }
+        
+  for(i=0; i<=N; i++){
+     for(j=0; j<=W; j++){
+         if(i ==0 || j ==0){
+             table[i][j]=0;
+         }
+         /* Condition when item can be included
+           We check if inclusion of this item leads to increase in 
+           value.
+           If without including this value, for this weight, value was 
+           greater than including this item, then we would take previous
+           value. */ 
+         else if(w[i-1]< j){
+             table[i][j] = table[i-1][j] > (v[i-1] + \
+              table[i-1][j-w[i-1]]) ? table[i-1][j] : \
+                        v[i-1] + table[i-1][j-w[i-1]]; 
+         }
+         else{
+              table[i][j] = table[i-1][j];
+         }
+                        
+       }
+     }
+     return table[N][W];   
+}
+
 int main(int argc, char * argv[])
 {
 	if (argc != 2)
 	{
-		printf("Usage: ./knapsack infile\n");
+		printf("Use: ./knapsack <arquivo>\n");
         return 1;
 	}
 	
 	else
 	{
-		// open input file 
+		// open input file
 		char* infile = argv[1];
 		FILE* fp = fopen(infile, "r");
 		if (fp == NULL)
@@ -38,32 +74,45 @@ int main(int argc, char * argv[])
 
 		// First line of data is item count, knapsack capacity
 		int n, W;
-		fscanf(fp, "%d %d", &n, &W);
+		fscanf(fp, "%d", &n);
+		fscanf(fp, "%d", &W);
 
 		// Make arrays of weights and values
 		int vals[n], wts[n], i = 0, j = 0, index = 0;
+		//int vals[n], wts[n], i = 0, j = 0, index = 0;
 		while (!feof (fp) && index < n)
 		{
-			fscanf(fp, "%d %d", &i, &j);
-			vals[index] = i; wts[index] = j;
-			index++;
+		  fscanf(fp, "%d", &j);
+		  wts[index++] = j;
+		  //index++;
+		}
+		int k=0;
+		printf("passei\n");
+		index = 0;
+		while (!feof (fp) && index < n)
+		{
+		  fscanf(fp, "%d", &i);
+		  vals[index++] = i;
+		  //index++;
 		}
 		fclose(fp);
-
+		printf("passei\n");
+		//for (i=0; i < n)
 		// Fill 2-d array
 		int K[n+1][W+1];
+		//printf("%d", knapsack_01(wts, vals, n, W));
 		knapsack(n, W, wts, vals, K);
-
 		// Traceback to find items taken
 		char taken[n];
 		memset(taken,'0',sizeof(taken));
 		traceback(n, W, K, taken, wts);
 	
-		/* printf("Item count: %d\nCapacity: %d\n", n, W); */
-		/* for (int i = 0; i < n; i++) */
-		/* { */
-		/* 	printf("Item %d: value = %d, weight = %d\n", i, vals[i], wts[i]); */
-		/* } */
+		printf("Item count: %d\nCapacity: %d\n", n, W); 
+		//int i;
+		for (i = 0; i < n; i++) 
+		{ 
+			printf("Item %d: value = %d, weight = %d\n", i, vals[i], wts[i]); 
+		 } 
 	
 		// Output max value and taken items as string of 0,1s
 		// write answer to standard output:
