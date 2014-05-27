@@ -86,9 +86,8 @@ int main(int argc, char * argv[])
     picks = (int**)calloc(n, sizeof(int*));
 
     for (i=0; i < n; i++) {
-        matrix[i] = (int*)calloc(n, sizeof(int));
-        picks[i] = (int*)calloc(n, sizeof(int));
-        printf("%d %d\n", matrix[i][0], picks[i][0]);
+        matrix[i] = (int*)calloc(n+W, sizeof(int));
+        picks[i] = (int*)calloc(n+W, sizeof(int));
     }
 
     while (!feof (fp) && index < n) {
