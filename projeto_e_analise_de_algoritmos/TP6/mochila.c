@@ -55,15 +55,14 @@ int bottom_up(int nItems, int size, int *weights, int *values, int **matrix, int
 			}
 		}
 	}
-
 	return matrix[nItems][size];
 }
 
-void print_picks(int item, int size, int *weights, int **picks){
+void print_picks(int item, int size, int *weights, int **picks, FILE *arquivo) {
 
 	while (item >= 0) {
-		if (picks[item][size] == 1){
-			printf("%d ",item);
+		if (picks[item][size] == 1) {
+			fprintf(arquivo, "%d\n", item);
 			item--;
 			size -= weights[item];
 		}
@@ -71,7 +70,4 @@ void print_picks(int item, int size, int *weights, int **picks){
 			item--;
 		}
 	}
-
-	printf("\n");
-	return;
 }
