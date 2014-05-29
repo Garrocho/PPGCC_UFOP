@@ -56,6 +56,7 @@ int main(int argc, const char * argv[])
 		clock_t end = clock();
 		double cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
 		fprintf(arquivo, "Tempo Total da execucao: %.2f\n", cpuTime);
+		fprintf(arquivo, "Quantidade de Selecionados: %d\n", count_picks(n-1, W, wts, picks));
 		fprintf(arquivo, "Selecionados:\n");
 		print_picks(n-1, W, wts, picks, arquivo);
 
@@ -75,6 +76,7 @@ int main(int argc, const char * argv[])
 		end = clock();
 		cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
 		fprintf(arquivo2, "Tempo Total da execucao: %.2f\n", cpuTime);
+		fprintf(arquivo2, "Quantidade de Selecionados: %d\n", count_picks(n-1, W, wts, picks));
 		fprintf(arquivo2, "Selecionados:\n");
 		print_picks(n-1, W, wts, picks, arquivo2);
 
