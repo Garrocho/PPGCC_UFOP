@@ -40,16 +40,16 @@ int top_down(int index, int size, int *weights, int *values, int **matrix, int *
 int bottom_up(int nItems, int size, int *weights, int *values, int **matrix, int **picks) {
 	int i,j;
 
-	for (i=1; i <= nItems; i++){
-		for (j=0; j <= size; j++){
-			if (weights[i-1] <= j){
+	for (i=1; i <= nItems; i++) {
+		for (j=0; j <= size; j++) {
+			if (weights[i-1] <= j) {
 				matrix[i][j] = max(matrix[i-1][j], values[i-1] + matrix[i-1][j-weights[i-1]]);
 				if (values[i-1] + matrix[i-1][j-weights[i-1]] > matrix[i-1][j])
 					picks[i][j] = 1;
 				else
 					picks[i][j] = -1;
 			}
-			else{
+			else {
 				picks[i][j] = -1;
 				matrix[i][j] = matrix[i-1][j];
 			}
@@ -60,7 +60,7 @@ int bottom_up(int nItems, int size, int *weights, int *values, int **matrix, int
 
 void print_picks(int item, int size, int *weights, int **picks, FILE *arquivo) {
 
-	while (item >= 0) {
+	while (item >= 0 && size >= 0) {
 		if (picks[item][size] == 1) {
 			fprintf(arquivo, "%d\n", item);
 			item--;
