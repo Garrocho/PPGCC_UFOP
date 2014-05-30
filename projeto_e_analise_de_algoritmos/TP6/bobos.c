@@ -2,12 +2,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define max(a, b) (a > b ? a : b)
+int K=100;
 
-int top_down(int index, int size, int *weights, int *values, int **matrix, int **picks);
+int top_down(int indice, int *dists, int *lucros, int *vetor, int *escolhidos, int u);
 
-int count_picks(int item, int size, int *weights, int **picks);
+int count_picks(int item, int *picks);
 
-void print_picks(int item, int size, int *weights, int **picks, FILE *arquivo);
+void print_picks(int item, int *picks, FILE *arquivo);
 
 int main(int argc, const char * argv[])
 {
@@ -29,28 +30,23 @@ int main(int argc, const char * argv[])
 
 		int n, W;
 		fscanf(fp, "%d", &n);
-		fscanf(fp, "%d", &W);
+		fscanf(fp, "%d", &K);
 
-		int vals[n], wts[n], **matrix, **picks;
-		int i = 0, j = 0, index = 0;
+		int vals[n], wts[n], *vetor, *picks;
+		int i = 0, j = 0, indice = 0;
 
-		matrix = (int**)calloc(n, sizeof(int*));
-		picks = (int**)calloc(n, sizeof(int*));
+		vetor = (int*)calloc(n, sizeof(int));
+		picks = (int*)calloc(n, sizeof(int));
 
-		for (i=0; i < n; i++) {
-			matrix[i] = (int*)calloc(W+1, sizeof(int));
-			picks[i] = (int*)calloc(W+1, sizeof(int));
-		}
-
-		while (!feof (fp) && index < n) {
+		while (!feof (fp) && indice < n) {
 			fscanf(fp, "%d", &j);
-			wts[index++] = j;
+			wts[indice++] = j;
 		}
 
-		index = 0;
-		while (!feof (fp) && index < n) {
+		indice = 0;
+		while (!feof (fp) && indice < n) {
 			fscanf(fp, "%d", &i);
-			vals[index++] = i;
+			vals[indice++] = i;
 		}
 
 		char endereco[100];
@@ -58,70 +54,59 @@ int main(int argc, const char * argv[])
 		arquivo = fopen(endereco, "w");
 
 		clock_t start = clock();
-		fprintf(arquivo, "Top Down\nLucro Otimo = %d\n", top_down(n-1, W, wts, vals, matrix, picks));
+		fprintf(arquivo, "Top Down\nLucro Otimo = %d\n", top_down(n-1, wts, vals, vetor, picks, 0));
 		clock_t end = clock();
 		double cpuTime = ((double) (end - start)) / CLOCKS_PER_SEC;
 		fprintf(arquivo, "Tempo Total da execucao: %.2f\n", cpuTime);
-		fprintf(arquivo, "Quantidade de Selecionados: %d\n", count_picks(n-1, W, wts, picks));
+		fprintf(arquivo, "Quantidade de Selecionados: %d\n", count_picks(n-1, picks));
 		fprintf(arquivo, "Selecionados:\n");
-		print_picks(n-1, W, wts, picks, arquivo);
+		print_picks(n-1, picks, arquivo);
 
 		fclose(fp);
 		fclose(arquivo);
 
-		for (i=0; i < n; i++) {
-			free(matrix[i]);
-			free(picks[i]);
-		}
-		free(matrix);
+		free(vetor);
 		free(picks);
 	}
 	return EXIT_SUCCESS;
 }
 
-int top_down(int index, int size, int *weights, int *values, int **matrix, int **picks) {
-	int take, dontTake;
+int top_down(int indice, int *dists, int *lucros, int *vetor, int *escolhidos, int u) {
+	int tomar, nao_tomar;
 
-	take = dontTake = 0;
+	tomar = nao_tomar = 0;
 
-	if (matrix[index][size] != 0)
-		return matrix[index][size];
+	if (vetor[indice] != 0)
+		return vetor[indice];
 
-	if (index == 0) {
-		if (weights[0] <= size ) {
-			picks[index][size] = 1;
-			matrix[index][size] = values[0];
-			return values[0];
+	if (indice == 0) {
+		if ((u - dists[indice]) >= K) {
+			escolhidos[indice] = 1;
+			vetor[indice] = lucros[0];
+			return lucros[0];
 		}
-		else {
-			picks[index][size] = -1;
-			matrix[index][size] = 0;
-			return 0;
-		}
+		return 0;
 	}
 
-	if (weights[index] <= size)
-		take = values[index] + top_down(index-1, size-weights[index], weights, values, matrix, picks);
+	if ((u == 0) || (u - dists[indice]) >= K) 
+		tomar = lucros[indice] + top_down(indice-1, dists, lucros, vetor, escolhidos, dists[indice]);
+	
+	nao_tomar = top_down(indice-1, dists, lucros, vetor, escolhidos, u);
+	vetor[indice] = max(tomar, nao_tomar);
 
-	dontTake = top_down(index-1, size, weights, values, matrix, picks);
-	matrix[index][size] = max(take, dontTake);
-
-	if (take > dontTake)
-		picks[index][size]=1;
+	if (tomar > nao_tomar)
+		escolhidos[indice]=1;
 	else
-		picks[index][size]=-1;
-
-	return matrix[index][size];
+		escolhidos[indice]=-1;
+	return vetor[indice];
 }
 
-
-int count_picks(int item, int size, int *weights, int **picks) {
+void count_picks(int item, int *picks) {
 	int count = 0;
-	while (item >= 0 && size >= 0) {
-		if (picks[item][size] == 1) {
-			count++;
+	while (item >= 0) {
+		if (picks[item] == 1) {
 			item--;
-			size -= weights[item];
+			count++;
 		}
 		else {
 			item--;
@@ -130,13 +115,12 @@ int count_picks(int item, int size, int *weights, int **picks) {
 	return count;
 }
 
-void print_picks(int item, int size, int *weights, int **picks, FILE *arquivo) {
+void print_picks(int item, int *picks, FILE *arquivo) {
 
-	while (item >= 0 && size >= 0) {
-		if (picks[item][size] == 1) {
+	while (item >= 0) {
+		if (picks[item] == 1) {
 			fprintf(arquivo, "%d\n", item);
 			item--;
-			size -= weights[item];
 		}
 		else {
 			item--;
