@@ -117,9 +117,14 @@ int top_down(int indice, int size, int *dists, int *lucros, int **matriz, int **
 int count_picks(int item, int size, int *weights, int **picks) {
 	int count = 0;
 	while (item >= 0) {
-		if (picks[item][size] == 1)
+		if (picks[item][size] == 1) {
 			count++;
-		item--;
+			size = weights[item];
+			item--;
+		}
+		else {
+			item--;
+		}
 	}
 	return count;
 }
@@ -127,8 +132,13 @@ int count_picks(int item, int size, int *weights, int **picks) {
 void print_picks(int item, int size, int *weights, int **picks, FILE *arquivo) {
 
 	while (item >= 0) {
-		if (picks[item][size] == 1)
+		if (picks[item][size] == 1) {
 			fprintf(arquivo, "%d\n", item);
-		item--;
+			size = weights[item];
+			item--;
+		}
+		else {
+			item--;
+		}
 	}
 }
