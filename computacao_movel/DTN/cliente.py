@@ -9,26 +9,6 @@ def conectar():
     soquete.connect(('localhost', 5555))
     return soquete
 
-soquete = conectar()
-soquete.send('LIST')
-arqs = json.loads(soquete.recv(2014))
-soquete.close()
-
-ass = os.listdir('/etc/black/carro/arquivos/')
-for i in arqs:
-    if i not in ass:
-        soquete = conectar()
-        soquete.send('GET')
-        soquete.send(i)
-        arq = open('/etc/black/carro/arquivos/{0}'.format(i), 'w')
-        while 1:
-            dados = soquete.recv(1024)
-            if not dados:
-                break
-            arq.write(dados)
-        arq.close()
-        soquete.close()
-
 ass = os.listdir('/etc/black/carro/arquivos/')
 for i in ass:
     print i
@@ -45,3 +25,25 @@ for i in ass:
             soquete.send(strng)
             strng = fp.read(1024)
     soquete.close()
+
+while True:
+    soquete = conectar()
+    soquete.send('LIST')
+    arqs = json.loads(soquete.recv(2014))
+    soquete.close()
+    ass = os.listdir('/etc/black/carro/arquivos/')
+    for i in arqs:
+        if i not in ass:
+            print i
+            soquete = conectar()
+            soquete.send('GET')
+            soquete.send(i)
+            arq = open('/etc/black/carro/arquivos/{0}'.format(i), 'w')
+            while 1:
+                dados = soquete.recv(1024)
+                if not dados:
+                    break
+                arq.write(dados)
+            arq.close()
+            soquete.close()
+    time.sleep(5)
