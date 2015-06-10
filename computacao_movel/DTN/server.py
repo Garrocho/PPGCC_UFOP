@@ -62,5 +62,5 @@ def loop_servidor():
 
 
 if __name__ == '__main__':
-    print 'Servidor de Nomes Iniciou na Porta 5555'
+    print 'Servidor de Arquivos Iniciou na Porta 5555...'
     Thread(target=loop_servidor).start()
