@@ -1,5 +1,4 @@
-MCC
+PPGCC_UFOP
 ===
 
-Mestrado em Ciência da Computação
-
+Programa de Pós Graduação em Ciência da Computação - UFOP
